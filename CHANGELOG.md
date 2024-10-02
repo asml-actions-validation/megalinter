@@ -182,6 +182,9 @@ Note: Can be used with `oxsecurity/megalinter@beta` in your GitHub Action mega-l
   - [actionlint](https://rhysd.github.io/actionlint/) from 1.7.2 to **1.7.3** on 2024-09-29
   - [checkstyle](https://checkstyle.org/) from 10.18.1 to **10.18.2** on 2024-09-29
   - [cfn-lint](https://github.com/aws-cloudformation/cfn-lint) from 1.15.1 to **1.15.2** on 2024-09-30
+  - [pyright](https://github.com/Microsoft/pyright) from 1.1.382 to **1.1.383** on 2024-10-02
+  - [checkov](https://www.checkov.io/) from 3.2.255 to **3.2.256** on 2024-10-02
+  - [kics](https://www.kics.io) from 2.1.2 to **2.1.3** on 2024-10-02
 <!-- linter-versions-end -->
 
 ## [v8.0.0] - 2024-08-19
